@@ -1,0 +1,94 @@
+# Dependency directories
+node_modules/
+/.pnp
+.pnp.js
+
+# Build outputs
+/build
+/dist
+/out
+/.next
+/.nuxt
+/.svelte-kit
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs
+*.log
+
+# Cache directories
+.npm
+.eslintcache
+.stylelintcache
+.rts2_cache_cjs
+.rts2_cache_es
+.rts2_cache_umd
+.rts2_cache_system
+.node_repl_history
+.yarn-integrity
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.project
+.classpath
+*.launch
+.settings/
+
+# Testing
+/coverage
+/.nyc_output
+
+# Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+# TypeScript cache
+*.tsbuildinfo
+.tscache
+
+# Storybook
+storybook-static/
+
+# Backend specific
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+ENV/
+
+# MongoDB data
+data/db/
+
+# Temporary files
+.tmp/
+.temp/
+/tmp
+/temp
+
+# Other common files to ignore
+*.gz
+*.zip
+*.tar.gz
+*.tgz
+*.rar 
