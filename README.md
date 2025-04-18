@@ -23,7 +23,7 @@ PrepWise is an intelligent exam preparation platform that helps students generat
 - **MongoDB**: NoSQL database for storing MCQ results and user data
 
 ### AI/ML
-- **Google Gemini 1.5 Pro API**: Advanced language model for generating MCQs
+- **Google Gemini-2.0-Flash API**: Advanced language model for generating MCQs
 - **PDF.js**: For extracting text from PDF documents
 
 ### Tools & Utilities
